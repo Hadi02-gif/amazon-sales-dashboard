@@ -84,7 +84,7 @@ Below are some key visualizations generated during this project. Make sure you h
 ![Top 5 Countries by Sales](images/top_5_countries_by_sales.png)
 
 ### Top 5 Customers by Sales
-![Top 5 Customers by Sales](images/top_customers_sales.png)
+![Top 5 Customers by Sales](images/top_5_customers_by_sales.png)
 
 ### Total Sales by Product Category
 ![Total Sales by Product Category](images/sales_by_category.png)
