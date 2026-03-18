@@ -97,3 +97,5 @@ Below are some key visualizations generated during this project. Make sure you h
 
 ### Distribution of Order Status
 ![Distribution of Order Status](images/distribution_of_order_status.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hadi02-gif/amazon_sales_dashboard/blob/main/Creating_a_business_dashboard.ipynb)
