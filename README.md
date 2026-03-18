@@ -96,4 +96,4 @@ Below are some key visualizations generated during this project. Make sure you h
 ![Total Sales by Payment Method](images/total_sales_by_payment_method_2.png)
 
 ### Distribution of Order Status
-![Distribution of Order Status](images/order_status_distribution.png)
+![Distribution of Order Status](images/distribution_of_order_status.png)
