@@ -87,7 +87,7 @@ Below are some key visualizations generated during this project. Make sure you h
 ![Top 5 Customers by Sales](images/top_5_customers_by_sales.png)
 
 ### Total Sales by Product Category
-![Total Sales by Product Category](images/sales_by_category.png)
+![Total Sales by Product Category](images/total_sales_by_product_category.png)
 
 ### Top 10 Total Sales by Product Sub-Category
 ![Top 10 Total Sales by Product Sub-Category](images/sales_by_subcategory.png)
