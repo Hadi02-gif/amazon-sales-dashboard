@@ -93,7 +93,7 @@ Below are some key visualizations generated during this project. Make sure you h
 ![Top 10 Total Sales by Product Sub-Category](images/top_10_total_sales_by_product_sub_category.png)
 
 ### Total Sales by Payment Method
-![Total Sales by Payment Method](images/sales_by_payment_method.png)
+![Total Sales by Payment Method](images/total_sales_by_payment_method_2.png)
 
 ### Distribution of Order Status
 ![Distribution of Order Status](images/order_status_distribution.png)
