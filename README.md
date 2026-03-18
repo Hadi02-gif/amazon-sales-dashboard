@@ -75,7 +75,7 @@ The accompanying Google Colab notebook (`amazon_sales_dashboard.ipynb`) follows 
 
 ## Visualizations
 
-Below are some key visualizations generated during this project. Make sure you have uploaded the corresponding image files to an `images/` folder within this repository for them to display correctly.
+Below are some key visualizations generated during this project.
 
 ### Monthly Sales Trend
 ![Monthly Sales Trend](images/monthly_sales_trend.png)
