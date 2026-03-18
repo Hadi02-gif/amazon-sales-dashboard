@@ -81,7 +81,7 @@ Below are some key visualizations generated during this project. Make sure you h
 ![Monthly Sales Trend](images/monthly_sales_trend.png)
 
 ### Top 5 Countries by Sales
-![Top 5 Countries by Sales](images/top_5_countries_by_sales.png.png)
+![Top 5 Countries by Sales](images/top_5_countries_by_sales.png)
 
 ### Top 5 Customers by Sales
 ![Top 5 Customers by Sales](images/top_customers_sales.png)
